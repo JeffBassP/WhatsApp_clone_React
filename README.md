@@ -1,3 +1,13 @@
+## WhatsApp CLone
+
+This project was made by Bonieck Lacerda's lesson.
+
+## Database
+
+We are using Firebase to manage access with Facebook to project and manage the database that we store 
+users and chats.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
